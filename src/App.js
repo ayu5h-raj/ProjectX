@@ -1,11 +1,9 @@
 import React from 'react';
-import './App.css';
+import './index.css';
 
 function App() {
   return (
-    <div>
-      Hello welcome to project X.
-    </div>
+    <div id="parent">Welcome to PROJECT X.<div id="border"></div></div>
   );
 }
 
